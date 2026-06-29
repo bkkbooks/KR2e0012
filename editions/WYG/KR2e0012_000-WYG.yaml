@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR2e0012/WYG/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 松漠紀聞
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-24 22:30:13.194378'
+  source:
+    repository: kanripo
+    path: KR2e0012/KR2e0012_000.txt
+hash: sha256:248cafedce712cb4ea723c6aa3ce6289d78f86055b55506431484569f1997745

@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR2e0012/krp/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 松漠紀聞
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-24 22:30:13.194378'
+  source:
+    repository: kanripo
+    path: KR2e0012/KR2e0012_000.txt
+hash: sha256:c82280b419e3ed748050ec6184a2f79e35da51d5293ce589cb400494c3c5440c
